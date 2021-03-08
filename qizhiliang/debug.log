@@ -1,0 +1,6 @@
+[1029/153525.065:ERROR:process_info.cc(329)] VirtualQueryEx: 拒绝访问。 (0x5)
+[1029/153525.066:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1029/153525.066:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[1029/153525.067:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 已尝试访问正在退出的过程。 (0xc000010a)
+[1109/182101.963:ERROR:file_io_win.cc(162)] CreateFile C:\Users\娴嬭瘯\AppData\Local\Temp\scoped_dir15536_1788558919\Crashpad\settings.dat: 系统找不到指定的文件。 (0x2)
+[1214/114607.401:ERROR:file_io_win.cc(162)] CreateFile C:\Users\娴嬭瘯\AppData\Local\Temp\scoped_dir98116_1662128893\Crashpad\settings.dat: 系统找不到指定的文件。 (0x2)
